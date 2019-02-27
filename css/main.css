@@ -8,3 +8,16 @@
 .section-follow .fa-4x {
   margin: 5px 10px;
 }
+@media screen and (max-width: 350px) {
+  #frame1{
+    width: 278px;
+    margin-left: -20px;
+
+  }
+}
+/* @media screen and (max-width: 600px) and (min-width:351) {
+  #frame1{
+    width: 278px;
+
+  }
+} */
