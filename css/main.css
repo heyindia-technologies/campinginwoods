@@ -10,7 +10,7 @@
 }
 @media screen and (max-width: 340px) {
   #frame1{
-    width: 280px;
+    width: 278px;
     margin-left: -20px;
 
   }
@@ -32,7 +32,6 @@
 /*
 jh
 */
-
 /* @media screen and (max-width: 600px) and (min-width:351) {
   #frame1{
     width: 278px;
