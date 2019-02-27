@@ -8,9 +8,23 @@
 .section-follow .fa-4x {
   margin: 5px 10px;
 }
-@media screen and (max-width: 393px) {
+@media screen and (max-width: 340px) {
+  #frame1{
+    width: 249px;
+    margin-left: -20px;
+
+  }
+}
+@media screen and (max-width: 400px) and (min-width: 341px) {
   #frame1{
     width: 278px;
+    margin-left: -20px;
+
+  }
+}
+@media screen and (max-width: 600px) and (min-width: 401px) {
+  #frame1{
+    width: 340px;
     margin-left: -20px;
 
   }
